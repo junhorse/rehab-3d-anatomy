@@ -1,0 +1,32 @@
+{
+  "_rules": "척수 높이별 근절(대표 근육)·반사·피부분절. 키는 terms.json 의 nerve_<높이> 와 같다. muscles: [한국어 이름, mesh 이름 정규식]. 근절 대표 근육은 ASIA 핵심 근육과 국내 물리치료 교재에서 흔히 드는 근육 기준이다. 교재마다 한 높이씩 차이가 있을 수 있다.",
+  "levels": {
+    "C3": { "motion": "목 가쪽굽힘, 어깨 올림(C3–C4)", "muscles": [["가로막(횡격막)", "^diaphragm$"], ["등세모근(승모근) 윗부분", "descending part of (left|right) trapezius"], ["어깨올림근(견갑거근)", "levator scapulae"]], "reflex": null, "dermatome": "목 옆면", "note": "가로막은 C3–C5 (C3·4·5 keeps the diaphragm alive)" },
+    "C4": { "motion": "어깨 올림(으쓱)", "muscles": [["등세모근(승모근) 윗부분", "descending part of (left|right) trapezius"], ["어깨올림근(견갑거근)", "levator scapulae"], ["가로막(횡격막)", "^diaphragm$"]], "reflex": null, "dermatome": "어깨 꼭대기(봉우리빗장관절 부근)", "note": null },
+    "C5": { "motion": "어깨 벌림, 팔꿈치 굽힘", "muscles": [["어깨세모근(삼각근)", "deltoid"], ["위팔두갈래근(상완이두근)", "biceps brachii"], ["위팔근(상완근)", "^(left|right) brachialis$"]], "reflex": "이두근 반사", "dermatome": "위팔 가쪽(팔오금 가쪽)", "note": "ASIA 핵심 근육: 팔꿈치 굽힘근" },
+    "C6": { "motion": "손목 폄, 팔꿈치 굽힘", "muscles": [["긴·짧은노쪽손목폄근(장·단요측수근신근)", "extensor carpi radialis"], ["위팔노근(완요골근)", "brachioradialis"], ["위팔두갈래근(상완이두근)", "biceps brachii"]], "reflex": "완요골근 반사", "dermatome": "엄지손가락, 아래팔 가쪽", "note": "ASIA 핵심 근육: 손목 폄근" },
+    "C7": { "motion": "팔꿈치 폄, 손목 굽힘, 손가락 폄", "muscles": [["위팔세갈래근(상완삼두근)", "triceps brachii"], ["노쪽손목굽힘근(요측수근굴근)", "flexor carpi radialis"], ["손가락폄근(수지신근)", "^(left|right) extensor digitorum$"]], "reflex": "삼두근 반사", "dermatome": "가운데손가락", "note": "ASIA 핵심 근육: 팔꿈치 폄근" },
+    "C8": { "motion": "손가락 굽힘, 엄지 폄", "muscles": [["깊은손가락굽힘근(심지굴근)", "flexor digitorum profundus"], ["긴엄지폄근(장무지신근)", "extensor pollicis longus"]], "reflex": null, "dermatome": "새끼손가락, 아래팔 안쪽 아래", "note": "ASIA 핵심 근육: 가운데손가락 끝마디 굽힘근" },
+    "T1": { "motion": "손가락 벌림", "muscles": [["새끼벌림근(소지외전근)", "abductor digiti minimi of (left|right) hand"], ["등쪽뼈사이근(배측골간근)", "dorsal interossei of (left|right) hand"]], "reflex": null, "dermatome": "아래팔 안쪽(팔오금 안쪽)", "note": "ASIA 핵심 근육: 새끼손가락 벌림근" },
+    "T2": { "motion": "갈비사이 호흡", "muscles": [["갈비사이근(늑간근)", "intercostal"]], "reflex": null, "dermatome": "겨드랑이 꼭대기", "note": null },
+    "T3": { "motion": "갈비사이 호흡", "muscles": [["갈비사이근(늑간근)", "intercostal"]], "reflex": null, "dermatome": "셋째 갈비사이", "note": null },
+    "T4": { "motion": "갈비사이 호흡", "muscles": [["갈비사이근(늑간근)", "intercostal"]], "reflex": null, "dermatome": "젖꼭지 높이", "note": "피부분절 기준점" },
+    "T5": { "motion": "갈비사이 호흡", "muscles": [["갈비사이근(늑간근)", "intercostal"]], "reflex": null, "dermatome": "다섯째 갈비사이", "note": null },
+    "T6": { "motion": "갈비사이 호흡, 배벽 위쪽", "muscles": [["갈비사이근(늑간근)", "intercostal"], ["배곧은근(복직근) 윗부분", "rectus abdominis"]], "reflex": null, "dermatome": "칼돌기(검상돌기) 높이", "note": "피부분절 기준점" },
+    "T7": { "motion": "배벽", "muscles": [["배곧은근(복직근)", "rectus abdominis"]], "reflex": null, "dermatome": "칼돌기와 배꼽 사이 위쪽", "note": null },
+    "T8": { "motion": "배벽", "muscles": [["배곧은근(복직근)", "rectus abdominis"]], "reflex": "위쪽 복벽 반사(T8–T10)", "dermatome": "칼돌기와 배꼽 사이", "note": null },
+    "T9": { "motion": "배벽", "muscles": [["배곧은근(복직근)", "rectus abdominis"]], "reflex": "위쪽 복벽 반사(T8–T10)", "dermatome": "배꼽 위", "note": null },
+    "T10": { "motion": "배벽", "muscles": [["배곧은근(복직근)", "rectus abdominis"]], "reflex": "복벽 반사(T10)", "dermatome": "배꼽 높이", "note": "피부분절 기준점. Beevor 징후: T10 아래 손상에서 배꼽이 위로 움직임" },
+    "T11": { "motion": "배벽 아래쪽", "muscles": [["배곧은근(복직근) 아랫부분", "rectus abdominis"]], "reflex": "아래쪽 복벽 반사(T10–T12)", "dermatome": "배꼽과 샅고랑 사이", "note": null },
+    "T12": { "motion": "배벽 아래쪽", "muscles": [["배곧은근(복직근) 아랫부분", "rectus abdominis"]], "reflex": "아래쪽 복벽 반사(T10–T12)", "dermatome": "샅고랑인대(서혜인대) 가운데", "note": null },
+    "L1": { "motion": "엉덩관절 굽힘(보조)", "muscles": [["엉덩허리근(장요근)", "psoas major|iliacus"]], "reflex": "고환올림근 반사(L1–L2)", "dermatome": "샅고랑(서혜부), 넙다리 앞 위쪽", "note": null },
+    "L2": { "motion": "엉덩관절 굽힘", "muscles": [["엉덩허리근(장요근)", "psoas major|iliacus"], ["긴모음근(장내전근)", "adductor longus"]], "reflex": "고환올림근 반사(L1–L2)", "dermatome": "넙다리 앞 가운데", "note": "ASIA 핵심 근육: 엉덩관절 굽힘근" },
+    "L3": { "motion": "무릎 폄", "muscles": [["넙다리네갈래근(대퇴사두근)", "vastus|rectus femoris"], ["긴모음근(장내전근)", "adductor longus"]], "reflex": "슬개건 반사(L3–L4)", "dermatome": "넙다리 안쪽 아래, 무릎 안쪽", "note": "ASIA 핵심 근육: 무릎 폄근" },
+    "L4": { "motion": "발목 배측굴곡(발등굽힘)", "muscles": [["앞정강근(전경골근)", "tibialis anterior"], ["넙다리네갈래근(대퇴사두근)", "vastus|rectus femoris"]], "reflex": "슬개건 반사", "dermatome": "안쪽 복사, 종아리 안쪽", "note": "ASIA 핵심 근육: 발목 발등굽힘근. 발뒤꿈치 걷기로 선별" },
+    "L5": { "motion": "엄지발가락 폄, 엉덩관절 벌림", "muscles": [["긴엄지폄근(장무지신근)", "extensor hallucis longus"], ["중간볼기근(중둔근)", "gluteus medius"]], "reflex": "안쪽 슬괵근 반사(보조)", "dermatome": "발등, 셋째 발허리발가락관절 부근", "note": "ASIA 핵심 근육: 긴엄지폄근" },
+    "S1": { "motion": "발목 저측굴곡(발바닥굽힘), 발 가쪽번짐, 엉덩관절 폄", "muscles": [["장딴지근(비복근)", "gastrocnemius"], ["가자미근", "soleus"], ["긴종아리근(장비골근)", "fibularis longus"], ["큰볼기근(대둔근)", "gluteus maximus"]], "reflex": "아킬레스건 반사", "dermatome": "발꿈치 가쪽, 발 가쪽 가장자리", "note": "ASIA 핵심 근육: 발목 발바닥굽힘근. 발끝 걷기로 선별" },
+    "S2": { "motion": "무릎 굽힘, 발가락 굽힘", "muscles": [["넙다리뒤근육(슬괵근)", "semitendinosus|semimembranosus|biceps femoris"], ["긴엄지굽힘근(장무지굴근)", "flexor hallucis longus"]], "reflex": null, "dermatome": "오금, 넙다리 뒤쪽", "note": null },
+    "S3": { "motion": "골반바닥", "muscles": [["항문올림근(항문거근)", "levator ani|pubococcygeus|iliococcygeus"]], "reflex": "항문 반사(S2–S4)", "dermatome": "궁둥뼈결절(좌골결절) 부근", "note": null },
+    "S4": { "motion": "골반바닥, 항문 조임", "muscles": [["바깥항문조임근(외항문괄약근)", "external anal sphincter"], ["항문올림근(항문거근)", "levator ani|pubococcygeus|iliococcygeus"]], "reflex": "항문 반사(S2–S4), 망울해면체 반사", "dermatome": "항문 주위(S4–S5)", "note": "마미증후군에서 안장 부위 감각 저하" }
+  }
+}

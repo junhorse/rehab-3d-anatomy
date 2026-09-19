@@ -1,0 +1,3586 @@
+{
+ "fit": {
+  "coef": [
+   {
+    "a": 9.890963209427834,
+    "b": -0.9058436656003681
+   },
+   {
+    "a": -9.51465636888446,
+    "b": -98.06875684963202
+   },
+   {
+    "a": 10.041212776954108,
+    "b": -73.43341431210399
+   }
+  ],
+  "globalRmsMm": 15.98,
+  "localRmsMm": 6.49,
+  "pairs": 144
+ },
+ "meshes": [
+  {
+   "name": "left sacrospinous ligament",
+   "base": "sacrospinous ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right iliolumbar ligament",
+   "base": "iliolumbar ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right sacrotuberous ligament",
+   "base": "sacrotuberous ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left sacrotuberous ligament",
+   "base": "sacrotuberous ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right obturator membrane",
+   "base": "obturator membrane",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right sacrospinous ligament",
+   "base": "sacrospinous ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left obturator membrane",
+   "base": "obturator membrane",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left iliolumbar ligament",
+   "base": "iliolumbar ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "pubic symphysis",
+   "base": "pubic symphysis",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "inferior pubic ligament",
+   "base": "inferior pubic ligament",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "superior pubic ligament",
+   "base": "superior pubic ligament",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "interpubic disc",
+   "base": "interpubic disc",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right triradiate cartilage",
+   "base": "triradiate cartilage",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left triradiate cartilage",
+   "base": "triradiate cartilage",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left anterior sacro-iliac ligament",
+   "base": "anterior sacro-iliac ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left interosseous sacro-iliac ligament",
+   "base": "interosseous sacro-iliac ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right posterior sacro-iliac ligament",
+   "base": "posterior sacro-iliac ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left posterior sacro-iliac ligament",
+   "base": "posterior sacro-iliac ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right anterior sacro-iliac ligament",
+   "base": "anterior sacro-iliac ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right interosseous sacro-iliac ligament",
+   "base": "interosseous sacro-iliac ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right transverse tibiofibular ligament",
+   "base": "transverse tibiofibular ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left posterior tibiofibular ligament",
+   "base": "posterior tibiofibular ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left transverse tibiofibular ligament",
+   "base": "transverse tibiofibular ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right posterior tibiofibular ligament",
+   "base": "posterior tibiofibular ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left anterior tibiofibular ligament",
+   "base": "anterior tibiofibular ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right anterior tibiofibular ligament",
+   "base": "anterior tibiofibular ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left interosseous membrane of leg",
+   "base": "interosseous membrane of leg",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right interosseous membrane of leg",
+   "base": "interosseous membrane of leg",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left superficial part of tibial collateral ligament",
+   "base": "superficial part of tibial collateral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left meniscopatellar ligament",
+   "base": "meniscopatellar ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right transverse ligament of knee",
+   "base": "transverse ligament of knee",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left anterior meniscotibial ligament lateral meniscus",
+   "base": "anterior meniscotibial ligament lateral meniscus",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right popliteofibular ligament",
+   "base": "popliteofibular ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right deep part of tibial collateral ligament",
+   "base": "deep part of tibial collateral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right posterior meniscotibial ligament medial meniscus",
+   "base": "posterior meniscotibial ligament medial meniscus",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right arcuate popliteal ligament",
+   "base": "arcuate popliteal ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right superficial part of tibial collateral ligament",
+   "base": "superficial part of tibial collateral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left lateral meniscus",
+   "base": "lateral meniscus",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left posterior meniscotibial ligament medial meniscus",
+   "base": "posterior meniscotibial ligament medial meniscus",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right anterior cruciate ligament",
+   "base": "anterior cruciate ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left deep part of tibial collateral ligament",
+   "base": "deep part of tibial collateral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right anterior meniscotibial ligament medial meniscus",
+   "base": "anterior meniscotibial ligament medial meniscus",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right fibular collateral ligament",
+   "base": "fibular collateral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular capsule of knee joint",
+   "base": "articular capsule of knee joint",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left anterior cruciate ligament",
+   "base": "anterior cruciate ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right medial meniscus",
+   "base": "medial meniscus",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular capsule of knee joint",
+   "base": "articular capsule of knee joint",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left popliteofibular ligament",
+   "base": "popliteofibular ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left fibular collateral ligament",
+   "base": "fibular collateral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left transverse ligament of knee",
+   "base": "transverse ligament of knee",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right anterior meniscotibial ligament lateral meniscus",
+   "base": "anterior meniscotibial ligament lateral meniscus",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right meniscopatellar ligament",
+   "base": "meniscopatellar ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right posterior meniscotibial ligament lateral meniscus",
+   "base": "posterior meniscotibial ligament lateral meniscus",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right posterior cruciate ligament",
+   "base": "posterior cruciate ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right lateral meniscus",
+   "base": "lateral meniscus",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left arcuate popliteal ligament",
+   "base": "arcuate popliteal ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left infrapatellar fat pad",
+   "base": "infrapatellar fat pad",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right oblique popliteal ligament",
+   "base": "oblique popliteal ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left posterior cruciate ligament",
+   "base": "posterior cruciate ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left medial meniscus",
+   "base": "medial meniscus",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left anterior meniscotibial ligament medial meniscus",
+   "base": "anterior meniscotibial ligament medial meniscus",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right infrapatellar fat pad",
+   "base": "infrapatellar fat pad",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left oblique popliteal ligament",
+   "base": "oblique popliteal ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left posterior meniscotibial ligament lateral meniscus",
+   "base": "posterior meniscotibial ligament lateral meniscus",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left metatarsal interosseous ligaments",
+   "base": "metatarsal interosseous ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left plantar metatarsal ligaments",
+   "base": "plantar metatarsal ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left dorsal metatarsal ligaments",
+   "base": "dorsal metatarsal ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left intersesamoid ligament",
+   "base": "intersesamoid ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right intersesamoid ligament",
+   "base": "intersesamoid ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right plantar metatarsal ligaments",
+   "base": "plantar metatarsal ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right dorsal metatarsal ligaments",
+   "base": "dorsal metatarsal ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right metatarsal interosseous ligaments",
+   "base": "metatarsal interosseous ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left collateral interphalangeal ligaments of foot",
+   "base": "collateral interphalangeal ligaments of foot",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right collateral interphalangeal ligaments of foot",
+   "base": "collateral interphalangeal ligaments of foot",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular capsules of proximal interphalangeal joints of foot",
+   "base": "articular capsules of proximal interphalangeal joints of foot",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left plantar interphalangeal ligaments",
+   "base": "plantar interphalangeal ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular capsules of distal interphalangeal joints of foot",
+   "base": "articular capsules of distal interphalangeal joints of foot",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right plantar interphalangeal ligaments",
+   "base": "plantar interphalangeal ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular capsules of distal interphalangeal joints of foot",
+   "base": "articular capsules of distal interphalangeal joints of foot",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular capsules of proximal interphalangeal joints of foot",
+   "base": "articular capsules of proximal interphalangeal joints of foot",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular capsule of interphalangeal joint of great toe",
+   "base": "articular capsule of interphalangeal joint of great toe",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular capsule of interphalangeal joint of great toe",
+   "base": "articular capsule of interphalangeal joint of great toe",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right plantar metatarsophalangeal ligaments",
+   "base": "plantar metatarsophalangeal ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left plantar metatarsophalangeal ligaments",
+   "base": "plantar metatarsophalangeal ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right collateral metatarsophalangeal ligaments",
+   "base": "collateral metatarsophalangeal ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular capsules of metatarsophalangeal joints",
+   "base": "articular capsules of metatarsophalangeal joints",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left deep transverse metatarsal ligament",
+   "base": "deep transverse metatarsal ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right deep transverse metatarsal ligament",
+   "base": "deep transverse metatarsal ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular capsules of metatarsophalangeal joints",
+   "base": "articular capsules of metatarsophalangeal joints",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left collateral metatarsophalangeal ligaments",
+   "base": "collateral metatarsophalangeal ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left dorsal tarsometatarsal ligaments",
+   "base": "dorsal tarsometatarsal ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left cuneometatarsal interosseous ligaments",
+   "base": "cuneometatarsal interosseous ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right cuneometatarsal interosseous ligaments",
+   "base": "cuneometatarsal interosseous ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right dorsal tarsometatarsal ligaments",
+   "base": "dorsal tarsometatarsal ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right plantar tarsometatarsal ligaments",
+   "base": "plantar tarsometatarsal ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left plantar tarsometatarsal ligaments",
+   "base": "plantar tarsometatarsal ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left plantar cuneocuboid ligament",
+   "base": "plantar cuneocuboid ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right plantar cuneonavicular ligaments",
+   "base": "plantar cuneonavicular ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right calcaneonavicular ligament",
+   "base": "calcaneonavicular ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left medial talocalcaneal ligament",
+   "base": "medial talocalcaneal ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right plantar calcaneocuboid ligament",
+   "base": "plantar calcaneocuboid ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left lateral talocalcaneal ligament",
+   "base": "lateral talocalcaneal ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right anterior talocalcaneal ligament",
+   "base": "anterior talocalcaneal ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left talocalcaneal interosseous ligament",
+   "base": "talocalcaneal interosseous ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right talonavicular ligament",
+   "base": "talonavicular ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left posterior talocalcaneal ligament",
+   "base": "posterior talocalcaneal ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right lateral talocalcaneal ligament",
+   "base": "lateral talocalcaneal ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right talocalcaneal interosseous ligament",
+   "base": "talocalcaneal interosseous ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right plantar cuneocuboid ligament",
+   "base": "plantar cuneocuboid ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left dorsal cuneonavicular ligaments",
+   "base": "dorsal cuneonavicular ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right cuneocuboid interosseous ligament",
+   "base": "cuneocuboid interosseous ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right posterior talocalcaneal ligament",
+   "base": "posterior talocalcaneal ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right dorsal cuneonavicular ligaments",
+   "base": "dorsal cuneonavicular ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left plantar calcaneocuboid ligament",
+   "base": "plantar calcaneocuboid ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left talonavicular ligament",
+   "base": "talonavicular ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left plantar cuneonavicular ligaments",
+   "base": "plantar cuneonavicular ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right medial talocalcaneal ligament",
+   "base": "medial talocalcaneal ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left cuneocuboid interosseous ligament",
+   "base": "cuneocuboid interosseous ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left calcaneonavicular ligament",
+   "base": "calcaneonavicular ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left long plantar ligament",
+   "base": "long plantar ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left anterior talocalcaneal ligament",
+   "base": "anterior talocalcaneal ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right long plantar ligament",
+   "base": "long plantar ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular capsule of hip joint",
+   "base": "articular capsule of hip joint",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right transverse acetabular ligament",
+   "base": "transverse acetabular ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left pubofemoral ligament",
+   "base": "pubofemoral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left acetabular labrum",
+   "base": "acetabular labrum",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right pubofemoral ligament",
+   "base": "pubofemoral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular capsule of hip joint",
+   "base": "articular capsule of hip joint",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right transverse part of iliofemoral ligament",
+   "base": "transverse part of iliofemoral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left zona orbicularis",
+   "base": "zona orbicularis",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right descending part of iliofemoral ligament",
+   "base": "descending part of iliofemoral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right ligament of head of femur",
+   "base": "ligament of head of femur",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left transverse part of iliofemoral ligament",
+   "base": "transverse part of iliofemoral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right zona orbicularis",
+   "base": "zona orbicularis",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right acetabular labrum",
+   "base": "acetabular labrum",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left ischiofemoral ligament",
+   "base": "ischiofemoral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right ischiofemoral ligament",
+   "base": "ischiofemoral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left transverse acetabular ligament",
+   "base": "transverse acetabular ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left descending part of iliofemoral ligament",
+   "base": "descending part of iliofemoral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left ligament of head of femur",
+   "base": "ligament of head of femur",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right posterior tibiotalar ligament",
+   "base": "posterior tibiotalar ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left posterior tibiotalar ligament",
+   "base": "posterior tibiotalar ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right tibiocalcaneal ligament",
+   "base": "tibiocalcaneal ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left tibiocalcaneal ligament",
+   "base": "tibiocalcaneal ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left tibionavicular ligament",
+   "base": "tibionavicular ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right tibionavicular ligament",
+   "base": "tibionavicular ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right anterior ligament of fibular head",
+   "base": "anterior ligament of fibular head",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular capsule of superior tibiofibular joint",
+   "base": "articular capsule of superior tibiofibular joint",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left posterior ligament of fibular head",
+   "base": "posterior ligament of fibular head",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular capsule of superior tibiofibular joint",
+   "base": "articular capsule of superior tibiofibular joint",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left anterior ligament of fibular head",
+   "base": "anterior ligament of fibular head",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right posterior ligament of fibular head",
+   "base": "posterior ligament of fibular head",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right lateral temporomandibular ligament",
+   "base": "lateral temporomandibular ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left lateral temporomandibular ligament",
+   "base": "lateral temporomandibular ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular capsule of temporomandibular joint",
+   "base": "articular capsule of temporomandibular joint",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular disc of temporomandibular joint",
+   "base": "articular disc of temporomandibular joint",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular disc of temporomandibular joint",
+   "base": "articular disc of temporomandibular joint",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular capsule of temporomandibular joint",
+   "base": "articular capsule of temporomandibular joint",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right stylomandibular ligament",
+   "base": "stylomandibular ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left stylomandibular ligament",
+   "base": "stylomandibular ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right sphenomandibular ligament",
+   "base": "sphenomandibular ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left stylohyoid ligament",
+   "base": "stylohyoid ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right stylohyoid ligament",
+   "base": "stylohyoid ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left sphenomandibular ligament",
+   "base": "sphenomandibular ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right interosseous membrane of forearm",
+   "base": "interosseous membrane of forearm",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left interosseous membrane of forearm",
+   "base": "interosseous membrane of forearm",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular capsule of elbow joint",
+   "base": "articular capsule of elbow joint",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left annular ligament of radius",
+   "base": "annular ligament of radius",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left radial collateral ligament",
+   "base": "radial collateral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular capsule of elbow joint",
+   "base": "articular capsule of elbow joint",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right ulnar collateral ligament",
+   "base": "ulnar collateral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right radial collateral ligament",
+   "base": "radial collateral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right annular ligament of radius",
+   "base": "annular ligament of radius",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left ulnar collateral ligament",
+   "base": "ulnar collateral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right palmar radio-ulnar ligament",
+   "base": "palmar radio-ulnar ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left palmar radio-ulnar ligament",
+   "base": "palmar radio-ulnar ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular capsules of proximal interphalangeal joints",
+   "base": "articular capsules of proximal interphalangeal joints",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular capsules of distal interphalangeal joints",
+   "base": "articular capsules of distal interphalangeal joints",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular capsules of distal interphalangeal joints",
+   "base": "articular capsules of distal interphalangeal joints",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right palmar interphalangeal ligaments",
+   "base": "palmar interphalangeal ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right collateral interphalangeal ligaments of hand",
+   "base": "collateral interphalangeal ligaments of hand",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left palmar interphalangeal ligaments",
+   "base": "palmar interphalangeal ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular capsules of proximal interphalangeal joints",
+   "base": "articular capsules of proximal interphalangeal joints",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left collateral interphalangeal ligaments of hand",
+   "base": "collateral interphalangeal ligaments of hand",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left palmar carpometacarpal ligaments",
+   "base": "palmar carpometacarpal ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left dorsal carpometacarpal ligaments",
+   "base": "dorsal carpometacarpal ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right dorsal carpometacarpal ligaments",
+   "base": "dorsal carpometacarpal ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right palmar carpometacarpal ligaments",
+   "base": "palmar carpometacarpal ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left collateral metacarpophalangeal ligaments",
+   "base": "collateral metacarpophalangeal ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular capsules of metacarpophalangeal joints",
+   "base": "articular capsules of metacarpophalangeal joints",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right collateral metacarpophalangeal ligaments",
+   "base": "collateral metacarpophalangeal ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular capsules of metacarpophalangeal joints",
+   "base": "articular capsules of metacarpophalangeal joints",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right deep transverse metacarpal ligament",
+   "base": "deep transverse metacarpal ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left deep transverse metacarpal ligament",
+   "base": "deep transverse metacarpal ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right palmar metacarpal ligaments",
+   "base": "palmar metacarpal ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right dorsal metacarpal ligaments",
+   "base": "dorsal metacarpal ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left interosseous metacarpal ligaments",
+   "base": "interosseous metacarpal ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left palmar metacarpal ligaments",
+   "base": "palmar metacarpal ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left dorsal metacarpal ligaments",
+   "base": "dorsal metacarpal ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right interosseous metacarpal ligaments",
+   "base": "interosseous metacarpal ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left pisotriquetral ligament",
+   "base": "pisotriquetral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right dorsal ulnocarpal ligament",
+   "base": "dorsal ulnocarpal ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left palmar scaphotriquetral ligament",
+   "base": "palmar scaphotriquetral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left dorsal intercarpal ligaments",
+   "base": "dorsal intercarpal ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left dorsal scaphotriquetral ligament",
+   "base": "dorsal scaphotriquetral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right palmar scaphotriquetral ligament",
+   "base": "palmar scaphotriquetral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left scaphotrapeziotrapezoidal ligament",
+   "base": "scaphotrapeziotrapezoidal ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left dorsal ulnocarpal ligament",
+   "base": "dorsal ulnocarpal ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right pisotriquetral ligament",
+   "base": "pisotriquetral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right radiate carpal ligament",
+   "base": "radiate carpal ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right ulnar collateral ligament of wrist joint",
+   "base": "ulnar collateral ligament of wrist joint",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right radial collateral ligament of wrist joint",
+   "base": "radial collateral ligament of wrist joint",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right scaphotrapeziotrapezoidal ligament",
+   "base": "scaphotrapeziotrapezoidal ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left radiate carpal ligament",
+   "base": "radiate carpal ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right dorsal intercarpal ligaments",
+   "base": "dorsal intercarpal ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right dorsal scaphotriquetral ligament",
+   "base": "dorsal scaphotriquetral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left superior glenohumeral ligament",
+   "base": "superior glenohumeral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left glenoid labrum",
+   "base": "glenoid labrum",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left coracohumeral ligament",
+   "base": "coracohumeral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left transverse humeral ligament",
+   "base": "transverse humeral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right inferior glenohumeral ligament",
+   "base": "inferior glenohumeral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right coracohumeral ligament",
+   "base": "coracohumeral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right superior glenohumeral ligament",
+   "base": "superior glenohumeral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular capsule of glenohumeral joint",
+   "base": "articular capsule of glenohumeral joint",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right glenoid labrum",
+   "base": "glenoid labrum",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular capsule of glenohumeral joint",
+   "base": "articular capsule of glenohumeral joint",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right transverse humeral ligament",
+   "base": "transverse humeral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left inferior glenohumeral ligament",
+   "base": "inferior glenohumeral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right middle glenohumeral ligament",
+   "base": "middle glenohumeral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left middle glenohumeral ligament",
+   "base": "middle glenohumeral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right ulnocapitate ligament",
+   "base": "ulnocapitate ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right ulnotriquetral ligament",
+   "base": "ulnotriquetral ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right ulnolunate ligament",
+   "base": "ulnolunate ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular capsule of radiocarpal joint",
+   "base": "articular capsule of radiocarpal joint",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left ulnar collateral ligament of wrist joint",
+   "base": "ulnar collateral ligament of wrist joint",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right dorsal radiocarpal ligament",
+   "base": "dorsal radiocarpal ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left radial collateral ligament of wrist joint",
+   "base": "radial collateral ligament of wrist joint",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left dorsal radiocarpal ligament",
+   "base": "dorsal radiocarpal ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular capsule of radiocarpal joint",
+   "base": "articular capsule of radiocarpal joint",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left ulnotriquetral ligament",
+   "base": "ulnotriquetral ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left ulnolunate ligament",
+   "base": "ulnolunate ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left ulnocapitate ligament",
+   "base": "ulnocapitate ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left anterior sternoclavicular ligament",
+   "base": "anterior sternoclavicular ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left posterior sternoclavicular ligament",
+   "base": "posterior sternoclavicular ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right anterior sternoclavicular ligament",
+   "base": "anterior sternoclavicular ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular disc of sternoclavicular joint",
+   "base": "articular disc of sternoclavicular joint",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right interclavicular ligament",
+   "base": "interclavicular ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular disc of sternoclavicular joint",
+   "base": "articular disc of sternoclavicular joint",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left interclavicular ligament",
+   "base": "interclavicular ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right posterior sternoclavicular ligament",
+   "base": "posterior sternoclavicular ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular capsule of sternoclavicular joint",
+   "base": "articular capsule of sternoclavicular joint",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular capsule of sternoclavicular joint",
+   "base": "articular capsule of sternoclavicular joint",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular capsule of acromioclavicular joint",
+   "base": "articular capsule of acromioclavicular joint",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right conoid ligament",
+   "base": "conoid ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right acromioclavicular ligament",
+   "base": "acromioclavicular ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left conoid ligament",
+   "base": "conoid ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left trapezoid ligament",
+   "base": "trapezoid ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right trapezoid ligament",
+   "base": "trapezoid ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular disc of acromioclavicular joint",
+   "base": "articular disc of acromioclavicular joint",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right articular disc of acromioclavicular joint",
+   "base": "articular disc of acromioclavicular joint",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left acromioclavicular ligament",
+   "base": "acromioclavicular ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left articular capsule of acromioclavicular joint",
+   "base": "articular capsule of acromioclavicular joint",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left intercornual ligament",
+   "base": "intercornual ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right intercornual ligament",
+   "base": "intercornual ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left intertransverse ligaments",
+   "base": "intertransverse ligaments",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "supraspinous ligament",
+   "base": "supraspinous ligament",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "posterior longitudinal ligament",
+   "base": "posterior longitudinal ligament",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right intertransverse ligaments",
+   "base": "intertransverse ligaments",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "nuchal ligament",
+   "base": "nuchal ligament",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "interspinous ligaments",
+   "base": "interspinous ligaments",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "anterior longitudinal ligament",
+   "base": "anterior longitudinal ligament",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "ligamenta flava",
+   "base": "ligamenta flava",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc t8-t9",
+   "base": "intervertebral disc t8-t9",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc c6-c7",
+   "base": "intervertebral disc c6-c7",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "sacrococcygeal symphysis",
+   "base": "sacrococcygeal symphysis",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc t5-t6",
+   "base": "intervertebral disc t5-t6",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc t3-t4",
+   "base": "intervertebral disc t3-t4",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc t12-l1",
+   "base": "intervertebral disc t12-l1",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc t9-t10",
+   "base": "intervertebral disc t9-t10",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc t10-t11",
+   "base": "intervertebral disc t10-t11",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc l3-l4",
+   "base": "intervertebral disc l3-l4",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc l5-s1",
+   "base": "intervertebral disc l5-s1",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc c3-c4",
+   "base": "intervertebral disc c3-c4",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc t11-t12",
+   "base": "intervertebral disc t11-t12",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc c5-c6",
+   "base": "intervertebral disc c5-c6",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc l2-l3",
+   "base": "intervertebral disc l2-l3",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc t1-t2",
+   "base": "intervertebral disc t1-t2",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc c4-c5",
+   "base": "intervertebral disc c4-c5",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc c7-t1",
+   "base": "intervertebral disc c7-t1",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc t6-t7",
+   "base": "intervertebral disc t6-t7",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc l1-l2",
+   "base": "intervertebral disc l1-l2",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc t7-t8",
+   "base": "intervertebral disc t7-t8",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc l4-l5",
+   "base": "intervertebral disc l4-l5",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc t4-t5",
+   "base": "intervertebral disc t4-t5",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc c2-c3",
+   "base": "intervertebral disc c2-c3",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intervertebral disc t2-t3",
+   "base": "intervertebral disc t2-t3",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left costotransverse ligament",
+   "base": "costotransverse ligament",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right costotransverse ligament",
+   "base": "costotransverse ligament",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left radiate ligament of head of rib",
+   "base": "radiate ligament of head of rib",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "intra-articular ligament of head of rib",
+   "base": "intra-articular ligament of head of rib",
+   "side": "",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right intra-articular ligament of head of rib",
+   "base": "intra-articular ligament of head of rib",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right radiate ligament of head of rib",
+   "base": "radiate ligament of head of rib",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right external intercostal membrane",
+   "base": "external intercostal membrane",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "right internal intercostal membrane",
+   "base": "internal intercostal membrane",
+   "side": "right",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left external intercostal membrane",
+   "base": "external intercostal membrane",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "left internal intercostal membrane",
+   "base": "internal intercostal membrane",
+   "side": "left",
+   "layer": "ligament",
+   "file": "za_joints.glb"
+  },
+  {
+   "name": "white matter of spinal cord",
+   "base": "white matter of spinal cord",
+   "side": "",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right sympathetic nerves",
+   "base": "sympathetic nerves",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left sympathetic trunk",
+   "base": "sympathetic trunk",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left ganglia of sympathetic trunk",
+   "base": "ganglia of sympathetic trunk",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right sympathetic trunk",
+   "base": "sympathetic trunk",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right ganglia of sympathetic trunk",
+   "base": "ganglia of sympathetic trunk",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left sympathetic nerves",
+   "base": "sympathetic nerves",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right radial nerve",
+   "base": "radial nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right inferior lateral brachial cutaneous nerve",
+   "base": "inferior lateral brachial cutaneous nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right superficial branch of radial nerve",
+   "base": "superficial branch of radial nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right dorsal digital branches of radial nerve",
+   "base": "dorsal digital branches of radial nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right deep branch of radial nerve",
+   "base": "deep branch of radial nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right posterior interosseous nerve of forearm",
+   "base": "posterior interosseous nerve of forearm",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right posterior antebrachial cutaneous nerve",
+   "base": "posterior antebrachial cutaneous nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right muscular branches of radial nerve",
+   "base": "muscular branches of radial nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right inferior subscapular nerve",
+   "base": "inferior subscapular nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left radial nerve",
+   "base": "radial nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left muscular branches of radial nerve",
+   "base": "muscular branches of radial nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left posterior antebrachial cutaneous nerve",
+   "base": "posterior antebrachial cutaneous nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left inferior lateral brachial cutaneous nerve",
+   "base": "inferior lateral brachial cutaneous nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left deep branch of radial nerve",
+   "base": "deep branch of radial nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left posterior interosseous nerve of forearm",
+   "base": "posterior interosseous nerve of forearm",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left superficial branch of radial nerve",
+   "base": "superficial branch of radial nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left dorsal digital branches of radial nerve",
+   "base": "dorsal digital branches of radial nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right axillary nerve",
+   "base": "axillary nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right superior lateral brachial cutaneous nerve",
+   "base": "superior lateral brachial cutaneous nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right muscular branches of axillary nerve",
+   "base": "muscular branches of axillary nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left superior subscapular nerve",
+   "base": "superior subscapular nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left axillary nerve",
+   "base": "axillary nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left superior lateral brachial cutaneous nerve",
+   "base": "superior lateral brachial cutaneous nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left muscular branches of axillary nerve",
+   "base": "muscular branches of axillary nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left thoracodorsal nerve",
+   "base": "thoracodorsal nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right thoracodorsal nerve",
+   "base": "thoracodorsal nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left inferior subscapular nerve",
+   "base": "inferior subscapular nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left median nerve",
+   "base": "median nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left anterior interosseous nerve of forearm",
+   "base": "anterior interosseous nerve of forearm",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left communicating branch of median nerve with ulnar nerve",
+   "base": "communicating branch of median nerve with ulnar nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left palmar branch of median nerve",
+   "base": "palmar branch of median nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left muscular branches of median nerve",
+   "base": "muscular branches of median nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left common palmar digital branches of median nerve",
+   "base": "common palmar digital branches of median nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left proper palmar digital branches of median nerve",
+   "base": "proper palmar digital branches of median nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right medial pectoral nerve",
+   "base": "medial pectoral nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left medial antebrachial cutaneous nerve",
+   "base": "medial antebrachial cutaneous nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left posterior branch of medial antebrachial cutaneous nerve",
+   "base": "posterior branch of medial antebrachial cutaneous nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left anterior branch of medial antebrachial cutaneous nerve",
+   "base": "anterior branch of medial antebrachial cutaneous nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left medial brachial cutaneous nerve",
+   "base": "medial brachial cutaneous nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left medial pectoral nerve",
+   "base": "medial pectoral nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right medial brachial cutaneous nerve",
+   "base": "medial brachial cutaneous nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right medial antebrachial cutaneous nerve",
+   "base": "medial antebrachial cutaneous nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right anterior branch of medial antebrachial cutaneous nerve",
+   "base": "anterior branch of medial antebrachial cutaneous nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right posterior branch of medial antebrachial cutaneous nerve",
+   "base": "posterior branch of medial antebrachial cutaneous nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right ulnar nerve",
+   "base": "ulnar nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right deep branch of ulnar nerve",
+   "base": "deep branch of ulnar nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right palmar branch of ulnar nerve",
+   "base": "palmar branch of ulnar nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right dorsal branch of ulnar nerve",
+   "base": "dorsal branch of ulnar nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right dorsal digital branches of ulnar nerve",
+   "base": "dorsal digital branches of ulnar nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right superficial branch of ulnar nerve",
+   "base": "superficial branch of ulnar nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right common palmar digital branches of ulnar nerve",
+   "base": "common palmar digital branches of ulnar nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right proper palmar digital branches of ulnar nerve",
+   "base": "proper palmar digital branches of ulnar nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right muscular branches of ulnar nerve",
+   "base": "muscular branches of ulnar nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left ulnar nerve",
+   "base": "ulnar nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left palmar branch of ulnar nerve",
+   "base": "palmar branch of ulnar nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left muscular branches of ulnar nerve",
+   "base": "muscular branches of ulnar nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left deep branch of ulnar nerve",
+   "base": "deep branch of ulnar nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left dorsal branch of ulnar nerve",
+   "base": "dorsal branch of ulnar nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left dorsal digital branches of ulnar nerve",
+   "base": "dorsal digital branches of ulnar nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left superficial branch of ulnar nerve",
+   "base": "superficial branch of ulnar nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left common palmar digital branches of ulnar nerve",
+   "base": "common palmar digital branches of ulnar nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left proper palmar digital branches of ulnar nerve",
+   "base": "proper palmar digital branches of ulnar nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left posterior cord of brachial plexus",
+   "base": "posterior cord of brachial plexus",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right posterior cord of brachial plexus",
+   "base": "posterior cord of brachial plexus",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right suprascapular nerve",
+   "base": "suprascapular nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right subclavian nerve",
+   "base": "subclavian nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right long thoracic nerve",
+   "base": "long thoracic nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left subclavian nerve",
+   "base": "subclavian nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right dorsal scapular nerve",
+   "base": "dorsal scapular nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left dorsal scapular nerve",
+   "base": "dorsal scapular nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left suprascapular nerve",
+   "base": "suprascapular nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left long thoracic nerve",
+   "base": "long thoracic nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left middle trunk of brachial plexus",
+   "base": "middle trunk of brachial plexus",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left posterior division of middle trunk of brachial plexus",
+   "base": "posterior division of middle trunk of brachial plexus",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left anterior division of middle trunk of brachial plexus",
+   "base": "anterior division of middle trunk of brachial plexus",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left inferior trunk of brachial plexus",
+   "base": "inferior trunk of brachial plexus",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left anterior division of inferior trunk of brachial plexus",
+   "base": "anterior division of inferior trunk of brachial plexus",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left posterior division of inferior trunk of brachial plexus",
+   "base": "posterior division of inferior trunk of brachial plexus",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right inferior trunk of brachial plexus",
+   "base": "inferior trunk of brachial plexus",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right posterior division of inferior trunk of brachial plexus",
+   "base": "posterior division of inferior trunk of brachial plexus",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right anterior division of inferior trunk of brachial plexus",
+   "base": "anterior division of inferior trunk of brachial plexus",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right middle trunk of brachial plexus",
+   "base": "middle trunk of brachial plexus",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right anterior division of middle trunk of brachial plexus",
+   "base": "anterior division of middle trunk of brachial plexus",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right posterior division of middle trunk of brachial plexus",
+   "base": "posterior division of middle trunk of brachial plexus",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right superior trunk of brachial plexus",
+   "base": "superior trunk of brachial plexus",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right posterior division of superior trunk of brachial plexus",
+   "base": "posterior division of superior trunk of brachial plexus",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right anterior division of superior trunk of brachial plexus",
+   "base": "anterior division of superior trunk of brachial plexus",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left superior trunk of brachial plexus",
+   "base": "superior trunk of brachial plexus",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left anterior division of superior trunk of brachial plexus",
+   "base": "anterior division of superior trunk of brachial plexus",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left posterior division of superior trunk of brachial plexus",
+   "base": "posterior division of superior trunk of brachial plexus",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right roots of brachial plexus",
+   "base": "roots of brachial plexus",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left roots of brachial plexus",
+   "base": "roots of brachial plexus",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right median nerve",
+   "base": "median nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right palmar branch of median nerve",
+   "base": "palmar branch of median nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right muscular branches of median nerve",
+   "base": "muscular branches of median nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right common palmar digital branches of median nerve",
+   "base": "common palmar digital branches of median nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right proper palmar digital branches of median nerve",
+   "base": "proper palmar digital branches of median nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right communicating branch of median nerve with ulnar nerve",
+   "base": "communicating branch of median nerve with ulnar nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right anterior interosseous nerve of forearm",
+   "base": "anterior interosseous nerve of forearm",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right lateral pectoral nerve",
+   "base": "lateral pectoral nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right musculocutaneous nerve",
+   "base": "musculocutaneous nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right lateral antebrachial cutaneous nerve",
+   "base": "lateral antebrachial cutaneous nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left musculocutaneous nerve",
+   "base": "musculocutaneous nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left lateral antebrachial cutaneous nerve",
+   "base": "lateral antebrachial cutaneous nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left lateral pectoral nerve",
+   "base": "lateral pectoral nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left posterior root of spinal nerve",
+   "base": "posterior root of spinal nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right anterior root of spinal nerve",
+   "base": "anterior root of spinal nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right ilio-inguinal nerve",
+   "base": "ilio-inguinal nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right iliohypogastric nerve",
+   "base": "iliohypogastric nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left iliohypogastric nerve",
+   "base": "iliohypogastric nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left ilio-inguinal nerve",
+   "base": "ilio-inguinal nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left lateral femoral cutaneous nerve",
+   "base": "lateral femoral cutaneous nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right superior subscapular nerve",
+   "base": "superior subscapular nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right lateral femoral cutaneous nerve",
+   "base": "lateral femoral cutaneous nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right femoral nerve",
+   "base": "femoral nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right anterior cutaneous branches of femoral nerve",
+   "base": "anterior cutaneous branches of femoral nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right saphenous nerve",
+   "base": "saphenous nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right medial crural cutaneous branches of saphenous nerve",
+   "base": "medial crural cutaneous branches of saphenous nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right infrapatellar branch of saphenous nerve",
+   "base": "infrapatellar branch of saphenous nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left femoral nerve",
+   "base": "femoral nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left anterior cutaneous branches of femoral nerve",
+   "base": "anterior cutaneous branches of femoral nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left saphenous nerve",
+   "base": "saphenous nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left infrapatellar branch of saphenous nerve",
+   "base": "infrapatellar branch of saphenous nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left medial crural cutaneous branches of saphenous nerve",
+   "base": "medial crural cutaneous branches of saphenous nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right genitofemoral nerve",
+   "base": "genitofemoral nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right genital branch of genitofemoral nerve",
+   "base": "genital branch of genitofemoral nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right femoral branch of genitofemoral nerve",
+   "base": "femoral branch of genitofemoral nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right obturator nerve",
+   "base": "obturator nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right posterior branch of obturator nerve",
+   "base": "posterior branch of obturator nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right anterior branch of obturator nerve",
+   "base": "anterior branch of obturator nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left genitofemoral nerve",
+   "base": "genitofemoral nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left genital branch of genitofemoral nerve",
+   "base": "genital branch of genitofemoral nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left femoral branch of genitofemoral nerve",
+   "base": "femoral branch of genitofemoral nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left obturator nerve",
+   "base": "obturator nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left posterior branch of obturator nerve",
+   "base": "posterior branch of obturator nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left anterior branch of obturator nerve",
+   "base": "anterior branch of obturator nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left posterior root of posterior femoral cutaneous nerve",
+   "base": "posterior root of posterior femoral cutaneous nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right posterior femoral cutaneous nerve",
+   "base": "posterior femoral cutaneous nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left nerve to quadratus femoris muscle",
+   "base": "nerve to quadratus femoris muscle",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right nerve to piriformis muscle",
+   "base": "nerve to piriformis muscle",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left superior gluteal nerve",
+   "base": "superior gluteal nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left sciatic nerve",
+   "base": "sciatic nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left tibial nerve",
+   "base": "tibial nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left lateral plantar nerve",
+   "base": "lateral plantar nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left common plantar digital branches of lateral plantar nerve",
+   "base": "common plantar digital branches of lateral plantar nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left proper plantar digital branches of lateral plantar nerve",
+   "base": "proper plantar digital branches of lateral plantar nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left medial plantar nerve",
+   "base": "medial plantar nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left common plantar digital branches of medial plantar nerve",
+   "base": "common plantar digital branches of medial plantar nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left proper plantar digital branches of medial plantar nerve",
+   "base": "proper plantar digital branches of medial plantar nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left medial sural cutaneous nerve",
+   "base": "medial sural cutaneous nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left sural nerve",
+   "base": "sural nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left common fibular nerve",
+   "base": "common fibular nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left superficial fibular nerve",
+   "base": "superficial fibular nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left intermediate dorsal cutaneous nerve of foot",
+   "base": "intermediate dorsal cutaneous nerve of foot",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left medial dorsal cutaneous nerve of foot",
+   "base": "medial dorsal cutaneous nerve of foot",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left dorsal digital branches of superficial fibular nerve",
+   "base": "dorsal digital branches of superficial fibular nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left sural communicating branch of common fibular nerve",
+   "base": "sural communicating branch of common fibular nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left deep fibular nerve",
+   "base": "deep fibular nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left muscular branches of deep fibular nerve",
+   "base": "muscular branches of deep fibular nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left dorsal digital branches of deep fibular nerve",
+   "base": "dorsal digital branches of deep fibular nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left nerve to piriformis muscle",
+   "base": "nerve to piriformis muscle",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right posterior root of posterior femoral cutaneous nerve",
+   "base": "posterior root of posterior femoral cutaneous nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right pudendal nerve",
+   "base": "pudendal nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left pudendal nerve",
+   "base": "pudendal nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right anterior root of posterior femoral cutaneous nerve",
+   "base": "anterior root of posterior femoral cutaneous nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right sciatic nerve",
+   "base": "sciatic nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right tibial nerve",
+   "base": "tibial nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right lateral plantar nerve",
+   "base": "lateral plantar nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right common plantar digital branches of lateral plantar nerve",
+   "base": "common plantar digital branches of lateral plantar nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right proper plantar digital branches of lateral plantar nerve",
+   "base": "proper plantar digital branches of lateral plantar nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right medial plantar nerve",
+   "base": "medial plantar nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "common plantar digital branches of medial plantar nerve",
+   "base": "common plantar digital branches of medial plantar nerve",
+   "side": "",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right proper plantar digital branches of medial plantar nerve",
+   "base": "proper plantar digital branches of medial plantar nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right medial sural cutaneous nerve",
+   "base": "medial sural cutaneous nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right sural nerve",
+   "base": "sural nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right common fibular nerve",
+   "base": "common fibular nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right superficial fibular nerve",
+   "base": "superficial fibular nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right medial dorsal cutaneous nerve of foot",
+   "base": "medial dorsal cutaneous nerve of foot",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right intermediate dorsal cutaneous nerve of foot",
+   "base": "intermediate dorsal cutaneous nerve of foot",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right dorsal digital branches of superficial fibular nerve",
+   "base": "dorsal digital branches of superficial fibular nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right sural communicating branch of common fibular nerve",
+   "base": "sural communicating branch of common fibular nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right deep fibular nerve",
+   "base": "deep fibular nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right muscular branches of deep fibular nerve",
+   "base": "muscular branches of deep fibular nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right dorsal digital branches of deep fibular nerve",
+   "base": "dorsal digital branches of deep fibular nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right superior gluteal nerve",
+   "base": "superior gluteal nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left posterior femoral cutaneous nerve",
+   "base": "posterior femoral cutaneous nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right nerve to quadratus femoris muscle",
+   "base": "nerve to quadratus femoris muscle",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left anterior root of posterior femoral cutaneous nerve",
+   "base": "anterior root of posterior femoral cutaneous nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left accessory nerve xi",
+   "base": "accessory nerve xi",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right accessory nerve xi",
+   "base": "accessory nerve xi",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left intercostal nerves",
+   "base": "intercostal nerves",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right intercostal nerves",
+   "base": "intercostal nerves",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "right posterior root of spinal nerve",
+   "base": "posterior root of spinal nerve",
+   "side": "right",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "left anterior root of spinal nerve",
+   "base": "anterior root of spinal nerve",
+   "side": "left",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "cauda equina",
+   "base": "cauda equina",
+   "side": "",
+   "layer": "nerve",
+   "file": "za_nerves.glb"
+  },
+  {
+   "name": "coccyx",
+   "base": "coccyx",
+   "side": "",
+   "layer": "bone",
+   "file": "za_bones.glb"
+  }
+ ]
+}

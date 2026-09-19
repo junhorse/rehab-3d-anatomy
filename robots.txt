@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://junhorse.github.io/rehab-3d-anatomy/sitemap.xml
