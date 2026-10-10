@@ -1,0 +1,111 @@
+{
+  "_note": "촉진 순서 안내. 부위별로 뼈 지표(terms.json landmark)와 근육을 찾아가는 순서. id 는 terms.json 구조물 id. 임상 실습에서 흔히 가르치는 순서(앞→안쪽→가쪽→뒤)를 따랐다.",
+  "regions": [
+    { "region": "어깨", "title": "어깨 촉진 순서 (앞 → 위 → 뒤)", "position": "좌위, 검사자는 뒤 또는 옆에 선다",
+      "steps": [
+        { "id": "acromion", "cue": "빗장뼈를 가쪽으로 따라가면 끝나는 곳. 어깨의 가장 높은 뼈." },
+        { "id": "ac_joint", "cue": "견봉 바로 안쪽 계단 모양 틈. 눌러 아프면 견쇄관절 병변(cross-body 검사)." },
+        { "id": "coracoid", "cue": "빗장뼈 가쪽 1/3 아래 2~3cm 를 깊게 누른다. 원래 눌리면 조금 아픈 곳." },
+        { "id": "greater_tubercle", "cue": "견봉 바로 아래·가쪽. 팔을 신전·내회전하면 견봉 밑에서 앞으로 나온다(가시위근 부착)." },
+        { "id": "bicipital_groove", "cue": "큰결절과 작은결절 사이 고랑. 팔을 내·외회전하면 손가락 밑에서 굴러간다. 이두근 장두 힘줄." },
+        { "id": "lesser_tubercle", "cue": "결절사이고랑 안쪽. 어깨밑근 부착." },
+        { "id": "scapular_spine", "cue": "견봉에서 안쪽으로 따라가면 T3 극돌기 높이에서 끝난다." },
+        { "id": "inferior_angle", "cue": "어깨뼈 아래 끝. T7 극돌기 높이. 팔을 들면 가쪽으로 돈다." },
+        { "id": "supraspinatus", "cue": "어깨뼈가시 위쪽 오목한 곳(가시위오목). 승모근 밑에서 만진다." },
+        { "id": "infraspinatus", "cue": "어깨뼈가시 아래 어깨뼈 등판. 압통점이 흔하다." },
+        { "id": "deltoid", "cue": "어깨를 감싸는 근육. 앞·중간·뒤 세 부분을 저항 굴곡·외전·신전으로 확인." }
+      ] },
+    { "region": "팔꿈치", "title": "팔꿈치 촉진 순서 (안쪽 → 뒤 → 가쪽)", "position": "좌위, 팔꿈치 90도 굽힘",
+      "steps": [
+        { "id": "medial_epicondyle", "cue": "안쪽 툭 튀어나온 뼈. 손목 굽힘근·원엎침근 공동 기시(내측상과염 압통)." },
+        { "id": "ulnar_nerve", "cue": "안쪽위관절융기 바로 뒤 고랑에서 줄처럼 굴러가는 신경. 세게 누르지 않는다(Tinel)." },
+        { "id": "olecranon", "cue": "팔꿈치 뒤 끝. 90도에서 안·가쪽위관절융기와 삼각형, 편 자세에서는 일직선." },
+        { "id": "lateral_epicondyle", "cue": "가쪽 뼈 돌출. 손목 폄근 공동 기시(테니스 엘보 압통은 바로 앞·아래)." },
+        { "id": "radial_head", "cue": "가쪽위관절융기 아래 2cm. 아래팔을 회내·회외하면 손가락 밑에서 돈다." },
+        { "id": "biceps_brachii", "cue": "팔오금 가운데 굵은 힘줄. 팔꿈치를 저항 굽힘하면 도드라진다." },
+        { "id": "wrist_extensors", "cue": "가쪽위관절융기에서 아래로 내려가는 근육 덩어리. 손목 저항 폄으로 확인." },
+        { "id": "wrist_flexors", "cue": "안쪽위관절융기에서 아래로. 손목 저항 굽힘으로 확인." }
+      ] },
+    { "region": "손목", "title": "손목·손 촉진 순서 (등쪽 → 요측 → 척측 → 바닥)", "position": "좌위, 손을 진찰대에",
+      "steps": [
+        { "id": "radial_styloid", "cue": "손목 엄지쪽 끝. 요골 원위 가쪽." },
+        { "id": "first_dorsal_compartment", "cue": "노뼈붓돌기 위를 지나는 두 힘줄(긴엄지벌림근·짧은엄지폄근). 드퀘르뱅(Finkelstein)." },
+        { "id": "scaphoid", "cue": "해부학적 코담배갑 바닥. 척측 편위하면 튀어나온다. 압통이면 골절 의심." },
+        { "id": "ulnar_styloid", "cue": "손목 새끼쪽 뒤 돌출. 요골 붓돌기보다 약간 위(몸쪽)." },
+        { "id": "hook_of_hamate", "cue": "새끼두덩 바닥, 두상골에서 엄지쪽·손끝쪽 2cm. 깊게 눌러야 한다(Guyon 관)." },
+        { "id": "metacarpals", "cue": "손등에서 다섯 개 손허리뼈를 따라 내려가 MCP 관절까지." },
+        { "id": "thenar", "cue": "엄지두덩. 정중신경 마비면 납작해진다." },
+        { "id": "median_nerve", "cue": "손목 바닥 중앙, 긴손바닥근 힘줄 바로 밑. Tinel·Durkan 부위." }
+      ] },
+    { "region": "경추", "title": "경추·목 촉진 순서 (뒤 → 옆 → 앞)", "position": "앙와위 또는 좌위",
+      "steps": [
+        { "id": "external_occipital_protuberance", "cue": "뒤통수 중앙 돌출. 목덜미인대 위끝." },
+        { "id": "mastoid_process", "cue": "귓불 뒤 뼈 돌출. 목빗근 정지." },
+        { "id": "spinous_process", "cue": "C2 가 첫 번째로 만져지는 극돌기. C7 이 가장 튀어나옴(고개를 젖히면 C6 는 사라지고 C7 은 남음)." },
+        { "id": "articular_process", "cue": "극돌기에서 가쪽 2~3cm 관절기둥. 분절별 압통·뻣뻣함." },
+        { "id": "transverse_process", "cue": "C1 가로돌기는 유양돌기와 하악각 사이에서 깊게. 아프므로 살살." },
+        { "id": "sternocleidomastoid", "cue": "고개를 반대로 돌리면 도드라지는 굵은 근육. 흉골·빗장뼈에서 유양돌기까지." },
+        { "id": "scalenes", "cue": "목빗근 뒤 가장자리 아래 뒤쪽. 빗장뼈 위에서 깊게 숨 쉬면 긴장(흉곽출구)." },
+        { "id": "trapezius", "cue": "위등세모근. 어깨를 으쓱하면 두꺼워진다. 압통점 흔함." },
+        { "id": "levator_scapulae", "cue": "어깨뼈 위각(상각)에서 위로. 어깨뼈 위각 압통이 전형적." }
+      ] },
+    { "region": "요추", "title": "요추 촉진 순서 (중앙 → 옆 → 골반)", "position": "복와위",
+      "steps": [
+        { "id": "iliac_crest", "cue": "양쪽 장골능을 잇는 선(Tuffier 선)이 L4 극돌기 또는 L4-5 사이." },
+        { "id": "spinous_process", "cue": "L4 에서 위·아래로 세어 간다. L5 는 깊고 작다. 극돌기 사이 압통과 계단 변형(전방전위증)." },
+        { "id": "transverse_process", "cue": "극돌기 가쪽 3~4cm, 척추기립근 밑에서 깊게." },
+        { "id": "erector_spinae", "cue": "극돌기 양옆 세로 근육 기둥. 긴장·압통·좌우 차이." },
+        { "id": "quadratus_lumborum", "cue": "12번 갈비뼈와 장골능 사이, 척추기립근 가쪽. 깊게 눌러 압통." },
+        { "id": "psis", "cue": "엉덩이 보조개(움푹한 곳) 밑 뼈 돌출. S2 높이. 천장관절은 바로 안쪽·아래." },
+        { "id": "sacroiliac_joint", "cue": "PSIS 안쪽·아래. 직접 관절은 못 만지고 압통 부위(Fortin 지점)를 본다." },
+        { "id": "sacral_apex", "cue": "천골 아래 끝, 엉덩이 사이. Sacral thrust 손 위치." }
+      ] },
+    { "region": "골반·천장관절", "title": "골반 촉진 순서 (앞 → 옆 → 뒤)", "position": "앙와위 → 측와위 → 복와위",
+      "steps": [
+        { "id": "asis", "cue": "앞쪽 골반 튀어나온 뼈. 양쪽 높이를 비교(골반 기울임·다리 길이)." },
+        { "id": "iliac_crest", "cue": "ASIS 에서 뒤로 능선을 따라간다. 허리 옆 손을 얹는 곳." },
+        { "id": "greater_trochanter", "cue": "허벅지 가쪽 위 넓은 뼈. 다리를 돌리면 손 밑에서 움직인다. 대전자 통증 증후군." },
+        { "id": "ischial_tuberosity", "cue": "엉덩이 주름 가운데, 앉을 때 닿는 뼈. 슬괵근 기시." },
+        { "id": "psis", "cue": "엉덩이 보조개 밑. 양쪽 높이 비교, 천장관절 위치 기준." },
+        { "id": "piriformis", "cue": "PSIS 와 대전자를 잇는 선의 가운데, 큰볼기근 밑에서 깊게. 궁둥신경 압박 부위." },
+        { "id": "gluteus_medius", "cue": "장골능 바로 밑, 대전자 위쪽. 한 발 서기 하면 수축이 만져진다." }
+      ] },
+    { "region": "고관절", "title": "고관절 촉진 순서 (앞 → 가쪽 → 뒤)", "position": "앙와위 → 측와위",
+      "steps": [
+        { "id": "asis", "cue": "기준점. 여기서 넙다리빗근·넙다리근막긴장근이 시작." },
+        { "id": "aiis", "cue": "ASIS 아래·안쪽 2~3cm 깊게. 넙다리곧은근 기시(견열 골절 부위)." },
+        { "id": "iliopsoas", "cue": "서혜부 인대 아래, 대퇴동맥 가쪽. 고관절을 저항 굽힘하면 긴장." },
+        { "id": "adductors", "cue": "허벅지 안쪽 위. 긴모음근 힘줄은 다리를 벌리면 두덩뼈에서 줄처럼 튀어나온다." },
+        { "id": "greater_trochanter", "cue": "가쪽. 뒤·위 모서리가 중둔근 부착, 대전자 윤활낭염 압통." },
+        { "id": "itb_tfl", "cue": "대전자 앞·위에서 무릎 가쪽까지 두꺼운 띠. 넙다리근막긴장근은 ASIS 바로 뒤." },
+        { "id": "ischial_tuberosity", "cue": "뒤. 슬괵근 기시 압통(햄스트링 건병증)." },
+        { "id": "hamstrings", "cue": "허벅지 뒤. 무릎을 저항 굽힘하면 안쪽(반건양근·반막양근)·가쪽(대퇴이두근) 힘줄이 갈라진다." }
+      ] },
+    { "region": "무릎", "title": "무릎 촉진 순서 (앞 → 안쪽 → 가쪽 → 뒤)", "position": "앙와위, 무릎 90도 굽힘(관절선이 벌어짐)",
+      "steps": [
+        { "id": "patella", "cue": "무릎 앞. 편 자세에서 위·아래·안·가쪽으로 밀어 가동성과 마찰음(Clarke)." },
+        { "id": "patellar_tendon", "cue": "슬개골 아래에서 경골조면까지. 슬개건염 압통은 슬개골 아래 끝." },
+        { "id": "tibial_tuberosity", "cue": "슬개건이 붙는 정강뼈 앞 돌출. 청소년 압통(Osgood-Schlatter)." },
+        { "id": "tibial_plateau", "cue": "슬개건 양옆 오목한 곳에서 안·가쪽으로 관절선을 따라간다. 관절선 압통은 반월판." },
+        { "id": "mcl", "cue": "안쪽 관절선에서 위·아래로 넓은 띠. 안쪽위관절융기 압통은 MCL 기시." },
+        { "id": "pes_anserinus", "cue": "정강뼈 안쪽 위, 관절선 아래 5cm. 거위발 윤활낭염." },
+        { "id": "lcl", "cue": "가쪽. 다리를 4자로 놓으면(Patrick 자세) 줄처럼 팽팽해진다." },
+        { "id": "fibular_head", "cue": "무릎 가쪽 아래 뼈 돌출. 뒤로 온종아리신경이 감아 돈다." },
+        { "id": "itb_tfl", "cue": "가쪽위관절융기 위를 지나는 띠. 30도 굽힘에서 압통(Noble)." },
+        { "id": "popliteus", "cue": "오금. 슬와동맥 맥박, Baker 낭종, 슬와근." }
+      ] },
+    { "region": "발목", "title": "발목·발 촉진 순서 (안쪽 → 가쪽 → 뒤 → 바닥)", "position": "앙와위 또는 좌위, 발을 늘어뜨림",
+      "steps": [
+        { "id": "medial_malleolus", "cue": "안쪽 복사. 아래·뒤로 세모인대(삼각인대)." },
+        { "id": "tibialis_posterior", "cue": "안쪽 복사 바로 뒤에서 아래로 도는 힘줄. 발을 저항 내번하면 튀어나온다(Tom, Dick and Harry 의 Tom)." },
+        { "id": "navicular_tuberosity", "cue": "안쪽 복사 앞·아래 2~3cm 돌출. 뒤정강근 정지. 내측 세로 아치 높이(Navicular drop)." },
+        { "id": "lateral_malleolus", "cue": "가쪽 복사. 안쪽보다 낮고 뒤에 있다. Ottawa 규칙: 뒤쪽 6cm 압통." },
+        { "id": "lateral_ankle_lig", "cue": "전거비인대: 가쪽 복사 앞·아래에서 거골로(염좌에서 가장 흔한 손상, Anterior drawer). 종비인대: 가쪽 복사 끝에서 아래·뒤로 종골까지(Talar tilt)." },
+        { "id": "fibularis", "cue": "가쪽 복사 뒤를 도는 두 힘줄. 저항 외번으로 확인." },
+        { "id": "fifth_metatarsal_base", "cue": "발 가쪽 가운데 돌출. 짧은종아리근 정지. Jones 골절 부위(Ottawa)." },
+        { "id": "achilles", "cue": "발뒤꿈치 위 굵은 힘줄. 파열 시 함몰(Thompson)." },
+        { "id": "calcaneal_tuberosity", "cue": "뒤꿈치 바닥 안쪽·앞. 족저근막 기시(족저근막염 압통, Windlass)." },
+        { "id": "plantar_fascia", "cue": "발바닥 중앙 띠. 엄지발가락을 젖히면 팽팽." }
+      ] }
+  ]
+}
