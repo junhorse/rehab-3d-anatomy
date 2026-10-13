@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anatomy4pdf.kr/sitemap.xml
